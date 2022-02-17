@@ -10,3 +10,7 @@ contract Simple {
         return (_a + _b, _a * _b);
     }
 }
+
+function helper () {
+
+};
